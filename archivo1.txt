@@ -1,4 +1,5 @@
 Se agrega una primera línea usando git en la rama main
 se agrega un cambio desde github
 Se hace un cambio en la rama2
+cambio hecho desde git para la rama2 linea 4
 Se hacen cambios en remote
